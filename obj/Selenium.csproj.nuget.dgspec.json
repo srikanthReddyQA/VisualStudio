@@ -1,6 +1,7 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< HEAD
     "D:\\Visual studio code git\\VisualStudio\\Selenium.csproj": {}
   },
   "projects": {
@@ -12,6 +13,19 @@
         "projectPath": "D:\\Visual studio code git\\VisualStudio\\Selenium.csproj",
         "packagesPath": "C:\\Users\\SRIKANTH\\.nuget\\packages\\",
         "outputPath": "D:\\Visual studio code git\\VisualStudio\\obj\\",
+=======
+    "D:\\New\\Selenium.csproj": {}
+  },
+  "projects": {
+    "D:\\New\\Selenium.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\New\\Selenium.csproj",
+        "projectName": "Selenium",
+        "projectPath": "D:\\New\\Selenium.csproj",
+        "packagesPath": "C:\\Users\\SRIKANTH\\.nuget\\packages\\",
+        "outputPath": "D:\\New\\obj\\",
+>>>>>>> 84241bed32061302fd4d7b34f2ccac6db8209c97
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\SRIKANTH\\AppData\\Roaming\\NuGet\\NuGet.Config",

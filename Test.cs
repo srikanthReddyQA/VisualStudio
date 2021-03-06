@@ -18,16 +18,23 @@ namespace Selenium
             Console.ReadLine();
             Console.ReadLine();
             Console.ReadLine();
+<<<<<<< HEAD
+=======
+
+
+
+
+>>>>>>> 84241bed32061302fd4d7b34f2ccac6db8209c97
         }
 
-       /* static void Main(string[] args)
-        {
-            // Console.WriteLine("Hello World!");
-            Test s = new Test();
-            // Sample.sumofnumbers();
-            s.arry();*/
+        /* static void Main(string[] args)
+         {
+             // Console.WriteLine("Hello World!");
+             Test s = new Test();
+             // Sample.sumofnumbers();
+             s.arry();*/
 
-        
+
 
 
 

@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "j9X+E7LtDmZisSA/C0uR8p4RYCQPlOUAOM8eljlccqBBlVP2z/RtWtDPg+JIU5Av4U1ipyqGu5xkDuwyW6MGMA==",
   "success": true,
   "projectFilePath": "D:\\Visual studio code git\\VisualStudio\\Selenium.csproj",
+=======
+  "dgSpecHash": "wawWNFfJr1p9824ZqFmkSI9LkmamKyZO/VJbLfJFPQlaa9EOdq6yZQb1HLt5QmUQZmA8wHoF1I6zYo5FTWrdrA==",
+  "success": true,
+  "projectFilePath": "D:\\New\\Selenium.csproj",
+>>>>>>> 84241bed32061302fd4d7b34f2ccac6db8209c97
   "expectedPackageFiles": [
     "C:\\Users\\SRIKANTH\\.nuget\\packages\\microsoft.csharp\\4.3.0\\microsoft.csharp.4.3.0.nupkg.sha512",
     "C:\\Users\\SRIKANTH\\.nuget\\packages\\microsoft.dotnet.internalabstractions\\1.0.0\\microsoft.dotnet.internalabstractions.1.0.0.nupkg.sha512",
