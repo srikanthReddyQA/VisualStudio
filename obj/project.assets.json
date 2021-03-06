@@ -4008,11 +4008,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\CSharp_Projects\\Selenium\\Selenium.csproj",
+      "projectUniqueName": "D:\\Visual studio code git\\VisualStudio\\Selenium.csproj",
       "projectName": "Selenium",
-      "projectPath": "D:\\CSharp_Projects\\Selenium\\Selenium.csproj",
+      "projectPath": "D:\\Visual studio code git\\VisualStudio\\Selenium.csproj",
       "packagesPath": "C:\\Users\\SRIKANTH\\.nuget\\packages\\",
-      "outputPath": "D:\\CSharp_Projects\\Selenium\\obj\\",
+      "outputPath": "D:\\Visual studio code git\\VisualStudio\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\SRIKANTH\\AppData\\Roaming\\NuGet\\NuGet.Config",

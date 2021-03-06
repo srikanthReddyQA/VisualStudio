@@ -21,3 +21,27 @@ D:\CSharp_Projects\Selenium\obj\Debug\netcoreapp3.1\Selenium.csproj.CopyComplete
 D:\CSharp_Projects\Selenium\obj\Debug\netcoreapp3.1\Selenium.dll
 D:\CSharp_Projects\Selenium\obj\Debug\netcoreapp3.1\Selenium.pdb
 D:\CSharp_Projects\Selenium\obj\Debug\netcoreapp3.1\Selenium.genruntimeconfig.cache
+D:\Visual studio code git\VisualStudio\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.dll
+D:\Visual studio code git\VisualStudio\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.pdb
+D:\Visual studio code git\VisualStudio\bin\Debug\netcoreapp3.1\nunit.engine.dll
+D:\Visual studio code git\VisualStudio\bin\Debug\netcoreapp3.1\nunit.engine.api.dll
+D:\Visual studio code git\VisualStudio\bin\Debug\netcoreapp3.1\nunit.engine.core.dll
+D:\Visual studio code git\VisualStudio\bin\Debug\netcoreapp3.1\Selenium.exe
+D:\Visual studio code git\VisualStudio\bin\Debug\netcoreapp3.1\Selenium.deps.json
+D:\Visual studio code git\VisualStudio\bin\Debug\netcoreapp3.1\Selenium.runtimeconfig.json
+D:\Visual studio code git\VisualStudio\bin\Debug\netcoreapp3.1\Selenium.runtimeconfig.dev.json
+D:\Visual studio code git\VisualStudio\bin\Debug\netcoreapp3.1\Selenium.dll
+D:\Visual studio code git\VisualStudio\bin\Debug\netcoreapp3.1\Selenium.pdb
+D:\Visual studio code git\VisualStudio\bin\Debug\netcoreapp3.1\Microsoft.DotNet.InternalAbstractions.dll
+D:\Visual studio code git\VisualStudio\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Visual studio code git\VisualStudio\bin\Debug\netcoreapp3.1\nunit.framework.dll
+D:\Visual studio code git\VisualStudio\bin\Debug\netcoreapp3.1\WebDriver.dll
+D:\Visual studio code git\VisualStudio\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
+D:\Visual studio code git\VisualStudio\obj\Debug\netcoreapp3.1\Selenium.csprojAssemblyReference.cache
+D:\Visual studio code git\VisualStudio\obj\Debug\netcoreapp3.1\Selenium.AssemblyInfoInputs.cache
+D:\Visual studio code git\VisualStudio\obj\Debug\netcoreapp3.1\Selenium.AssemblyInfo.cs
+D:\Visual studio code git\VisualStudio\obj\Debug\netcoreapp3.1\Selenium.csproj.CoreCompileInputs.cache
+D:\Visual studio code git\VisualStudio\obj\Debug\netcoreapp3.1\Selenium.csproj.CopyComplete
+D:\Visual studio code git\VisualStudio\obj\Debug\netcoreapp3.1\Selenium.dll
+D:\Visual studio code git\VisualStudio\obj\Debug\netcoreapp3.1\Selenium.pdb
+D:\Visual studio code git\VisualStudio\obj\Debug\netcoreapp3.1\Selenium.genruntimeconfig.cache
