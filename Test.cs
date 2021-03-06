@@ -16,16 +16,22 @@ namespace Selenium
             int ss = a[0];
             Console.WriteLine(ss);
             Console.ReadLine();
+            Console.ReadLine();
+            Console.ReadLine();
+
+
+
+
         }
 
-       /* static void Main(string[] args)
-        {
-            // Console.WriteLine("Hello World!");
-            Test s = new Test();
-            // Sample.sumofnumbers();
-            s.arry();*/
+        /* static void Main(string[] args)
+         {
+             // Console.WriteLine("Hello World!");
+             Test s = new Test();
+             // Sample.sumofnumbers();
+             s.arry();*/
 
-        
+
 
 
 

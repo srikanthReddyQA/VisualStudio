@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\CSharp_Projects\\Selenium\\Selenium.csproj": {}
+    "D:\\New\\Selenium.csproj": {}
   },
   "projects": {
-    "D:\\CSharp_Projects\\Selenium\\Selenium.csproj": {
+    "D:\\New\\Selenium.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\CSharp_Projects\\Selenium\\Selenium.csproj",
+        "projectUniqueName": "D:\\New\\Selenium.csproj",
         "projectName": "Selenium",
-        "projectPath": "D:\\CSharp_Projects\\Selenium\\Selenium.csproj",
+        "projectPath": "D:\\New\\Selenium.csproj",
         "packagesPath": "C:\\Users\\SRIKANTH\\.nuget\\packages\\",
-        "outputPath": "D:\\CSharp_Projects\\Selenium\\obj\\",
+        "outputPath": "D:\\New\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\SRIKANTH\\AppData\\Roaming\\NuGet\\NuGet.Config",
